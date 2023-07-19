@@ -8,6 +8,11 @@ import ComponentA7 from './hooks/useState/ComponentA7.jsx';
 import ComponentA8 from './hooks/useState/ComponentA8.jsx';
 import ComponentA9 from './hooks/useState/ComponentA9.jsx';
 import ComponentA10 from './hooks/useState/ComponentA10.jsx';
+import ComponentA11 from './hooks/useState/ComponentA11.jsx';
+import ComponentA12 from './hooks/useState/ComponentA12.jsx';
+import ComponentA13 from './hooks/useState/ComponentA13.jsx';
+import ComponentA14 from './hooks/useState/ComponentA14.jsx';
+
 
 export default function App() {
     return (
@@ -41,6 +46,18 @@ export default function App() {
     <br />
     <br />
     <ComponentA10/>
+    <br />
+    <br />
+    <ComponentA11/>
+    <br />
+    <br />
+    <ComponentA12/>
+    <br />
+    <br />
+    <ComponentA13/>
+    <br />
+    <br />
+    <ComponentA14/>
     </>
     );
     }
